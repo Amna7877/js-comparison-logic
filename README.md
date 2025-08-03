@@ -30,7 +30,7 @@ Netlify (for deployment)
 
 Git & GitHub (for version control)
 
-👩‍💻 About Me
+# 👩‍💻 About Me
 Hi! I’m Amna Mehmood, a beginner Front-End Web Developer from Pakistan — currently enrolled in the Saylani Mass IT Training (SMIT) Full Stack Web & App Development course.
 
 Made by Amna Mehmood | SMIT Web Development Student
