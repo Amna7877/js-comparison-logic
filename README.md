@@ -2,9 +2,9 @@
 
 This project is part of my SMIT (Saylani Mass IT Training) coursework. It demonstrates the use of **comparison** and **logical operators** in JavaScript through a simple task.
 
-🌐 Live Project
-🔗 [View on Netlify](https://js-comparison-logic.netlify.app)
-🔗 [View Repository](https://github.com/Amna7877/js-comparison-logic)
+# 🌐 Live Project
+1. 🔗 [View on Netlify](https://js-comparison-logic.netlify.app).
+2. 🔗 [View Repository](https://github.com/Amna7877/js-comparison-logic).
 
 # Project Highlights
 ✅ Use of all comparison operators:
